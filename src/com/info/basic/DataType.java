@@ -4,16 +4,17 @@ public class DataType {
 
 	public static void main(String[] args) {
 		// declaring character
-        char a = 65;
+        char a =67;
        // Integer data type is generally 
        // used for num;eric values
-       int i=89;
+       int i=927036371;
+       long  g=1099999999;
        // use byte and short if memory is a constraint 
-       byte b = 4;
+       byte b = 53;
        // this will give error as number is 
        // larger than byte range
        // byte b1 = 7888888955;
-       short s = 56;
+       short s = 5634;
        // this will give error as number is 
        // larger than short range
        // short s1 = 87878787878
