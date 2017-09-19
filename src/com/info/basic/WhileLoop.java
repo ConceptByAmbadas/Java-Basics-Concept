@@ -6,7 +6,8 @@ public class WhileLoop {
 		// TODO Auto-generated method stub
 //To print odd no betwnn 1 to 10
 		int no=1;
-		while(no<10)
+		
+		while( no<10)
 		{
 			
 			no=no+2;
